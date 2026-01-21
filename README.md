@@ -1,4 +1,4 @@
-# Northline Safety Solutions — Master Notes (written to self)
+# Northline Safety Solutions — Master Notes 
 
 > Consolidated “source of truth” notes: positioning, services, niches, skills, retainer/package ideas (no pricing tables), ops, and future concepts. Pull from this for website copy, proposals, capability statements, decks, SOPs, and intake forms.
 
