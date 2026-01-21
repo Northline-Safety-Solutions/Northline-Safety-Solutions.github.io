@@ -1,6 +1,6 @@
 # Northline Safety Solutions — Master Notes (written to self)
 
-> Dump of everything built/said/half-built recently: positioning, services, niches, pricing philosophy, ops, marketing, and future ideas. This is the internal “source of truth” doc to pull from for website copy, proposals, capability statements, decks, and SOPs.
+> Consolidated “source of truth” notes: positioning, services, niches, skills, retainer/package ideas (no pricing tables), ops, and future concepts. Pull from this for website copy, proposals, capability statements, decks, SOPs, and intake forms.
 
 ---
 
@@ -8,8 +8,8 @@
 
 - **Name:** Northline Safety Solutions
 - **Base:** Chicago
-- **Reality:** built to travel (on-site, remote, hybrid)
-- **Tone:** serious + field-credible + practical. No corporate poster vibe. No tech-bro vibe.
+- **Operating reality:** built to travel (on-site, remote, hybrid)
+- **Tone:** serious, field-credible, practical. No corporate poster vibe. No tech-bro vibe.
 - **Core line:** **Protect people. Protect business.**
 - **Brand lanes:** Construction/Industrial and Fire/Rescue shown as equal-weight lanes with the same standard.
 
@@ -29,20 +29,73 @@ Northline is not “consulting” in the soft sense—this is field-ready execut
 
 ---
 
+## Billing anchors (internal)
+
+- **Standard billing rate:** **$300/hr**
+- **First-time client discount floor:** as low as **$225/hr** when strategically necessary (intro pricing, de-risking entry, or landing a retainer)
+- Discounts are intentional, not automatic—used to open the door or secure predictable work.
+
+---
+
 ## Who Northline serves
 
 ### Primary client types
 - Construction (especially electrical / high-energy environments)
 - Industrial / manufacturing / operational sites
-- Multi-site organizations that need standardization across locations
-- Owners/GCs/subs that need inspection readiness and tighter field behavior
-- Fire departments, rescue teams, and high-risk sites that need real readiness
+- Multi-site organizations needing standardization across locations
+- Owners/GCs/subs needing inspection readiness and tighter field behavior
+- Fire departments, rescue teams, and high-risk sites needing real readiness
 
 ### What drives buying decisions
 - Lower injuries/recordables and the downstream damage (cost, delays, trust loss)
 - Avoid shutdowns and schedule-killers created by unmanaged risk
 - Be ready for scrutiny (OSHA, owner, insurance, post-incident review)
 - Have response capability that actually works when something goes sideways
+
+---
+
+## Skills inventory (what Northline can credibly sell)
+
+### Field leadership + safety systems
+- High-risk task planning under schedule pressure
+- Practical program design (simple enough to run, strong enough to defend)
+- Leading indicators + corrective action systems that don’t become admin bloat
+- Investigation interviews, scene documentation, causal analysis, and action tracking
+- Crew-facing safety influence without losing credibility (practical and direct)
+
+### High-energy hazards + electrical emphasis
+- Energized work planning mindset (energy control, verification habits, human factors)
+- Lockout/Tagout program design + verification discipline
+- SIMOPS planning and risk controls that actually survive in the field
+- High-risk planning around lifting/rigging and shutdown coordination
+
+### OSHA / regulatory readiness (non-legal)
+- Mock inspections and readiness sprints
+- Documentation triage: what matters, what doesn’t, how to tighten the flow
+- Leadership coaching for inspector interactions (process + composure + organization)
+- Unforced-error reduction: fix the easy misses before they become expensive
+
+### Training & instruction (operator-level)
+- Instructor mindset: training built for retention, not attendance
+- Skill-based progression (start at current level; stop wasting time)
+- Practical delivery formats: toolbox talks, crew training, supervisor development, scenario-based drills
+- Written plans, checklists, and “field cards” that make training stick
+
+### Emergency response + rescue readiness
+- Confined space rescue strategy + execution
+- Rope rescue / low-angle / high-angle concepts and operational constraints
+- Pre-incident planning that matches real staffing/equipment “at 2:00 a.m.”
+- Standby rescue planning and accountability expectations for high-risk operations
+
+### Apparatus / equipment readiness lane (EVT-driven)
+- Fire apparatus inspection/testing experience and deployment mindset
+- Aerial/ground ladder inspection concepts (as scoped)
+- Equipment reliability framing: critical assets must be dependable, not “probably fine”
+
+### Operational credibility (general)
+- Built for travel and work across regions (deployable capability)
+- Comfortable in high-consequence environments and time pressure
+- Calm process under scrutiny (inspections, incidents, high-risk operations)
 
 ---
 
@@ -80,16 +133,16 @@ Specialty inspection/testing work that fits “built to travel”:
 - Fire apparatus testing (leveraging EVT credentials/experience)
 - Aerial and ground ladder inspections
 - Potential hose testing (future offering)
-- Travel-based specialty inspections (fits the “deployable capability” brand)
+- Travel-based specialty inspections (deployable capability)
 
 ---
 
 ### 4) Health / wellness / human performance (adjacent lane)
 Expand “protect people” beyond OSHA-only:
 
-- Wellness / PT programming as a service category (not fluffy—operationally useful)
+- Wellness / PT programming as a service category (operationally useful, not fluffy)
 - Wellness checks and support services (scoped)
-- Mental health services concept (likely via partners/subs)
+- Mental health support concept (likely via partners/subs)
 
 ---
 
@@ -101,74 +154,79 @@ Expand “protect people” beyond OSHA-only:
 - Hybrid
 - Mobilize/deploy teams for multi-site or remote operations
 
-### Sellable packaged units (easy to quote/sell)
-- Site audit + corrective action plan (per site)
-- Inspection readiness push (short sprint with clear deliverables)
-- Training buildout (blended remote + on-site cadence)
-- Ongoing safety management retainer (predictable revenue, scalable)
-- Deployment blocks (day rate / week blocks for coverage or shutdown support)
+### Productized / packaged units (easy to quote/sell)
+- **Site audit + corrective action plan** (per site)
+- **Inspection readiness push** (short sprint with clear deliverables)
+- **Training buildout** (blended remote + on-site cadence)
+- **Retainer-based safety leadership support** (predictable revenue, scalable)
+- **Deployment blocks** (day/week coverage for shutdowns, high-risk phases, or response support)
 
 ### Blended training concept
 Subscription-style training + scheduled in-person sessions (quarterly/biannual), tied to verification/tracking so it isn’t training theater.
 
 ---
 
-## Pricing model and rules
+## Retainer packages (no pricing here)
 
-### Anchor rate
-- **$250/hr** as the headline consulting rate to normalize and justify.
+> Retainers are structured by intensity: “reactive support” → “embedded partner” → “executive-level commitment.” Packages stay clean and defendable; scope creep is controlled.
 
-### Canonical pricing menu (source of truth)
-Pricing menu already built and treated as canonical going forward. Key mechanics:
-- Owner billing often modeled at **$225/hr** inside menu for overhead/reinvest/reserve structure.
-- Tiered client pricing for recurring services:
-  - **Reactive / Standard / Proactive / Executive commitment** (Tier 1–4)
-- Tiered rescuer pay rates (internal labor tiers):
-  - **Tier 1:** $25/hr
-  - **Tier 2:** $30–$35/hr
-  - **Tier 3:** $50/hr
+### Retainer 1 — Readiness & Advisory (lightweight)
+Best for: smaller operations or organizations that need a steady backstop.
+- Monthly safety advisory calls (ops + leadership)
+- Remote review of programs, high-risk plans, and incident trends
+- Action list + accountability tracking
+- Inspection readiness coaching (ongoing)
 
-### Pricing principles
-- Price based on outcome, risk, credibility, and mobilization—not just hours.
-- Retainers and packages protect time and create predictable revenue.
-- Travel-day pricing matters.
-- Discounts are strategic (anchor-client logic), not automatic.
+### Retainer 2 — Operational Support (standard)
+Best for: active sites/plants with real risk and the need for consistent execution.
+- Scheduled site visits (cadence-based)
+- High-risk work planning support (LOTO, SIMOPS, confined space, lifts, shutdowns)
+- Supervisor coaching + field observations
+- Training touchpoints (toolbox/supervisor modules)
+- Corrective action tracking + closure verification
+
+### Retainer 3 — Embedded / High-Consequence Partner (heavy)
+Best for: high-risk phases, multi-site programs, owners/GCs, shutdowns.
+- Dedicated response window (fast turnaround)
+- Weekly site presence or deployment blocks as needed
+- Strong documentation flow and defensible decision records
+- Incident response support and investigation leadership
+- Program builds/tune-ups included as part of the ongoing system
+
+### Retainer 4 — Emergency Response Readiness (FD / rescue / high-risk sites)
+Best for: agencies or sites that want readiness that holds up under stress.
+- Annual or semiannual training plan buildout
+- Scenario-based drills + skill progression
+- Pre-incident plan development and updates
+- Equipment/apparatus readiness reviews + corrective tracking
+- Command/supervisor coaching for real constraints
+
+### Optional retainer add-ons (modular)
+- Multi-site scorecards and readiness dashboards
+- Recordability reduction support (process + coaching + reporting discipline)
+- Standby rescue coverage blocks (confined space / WAH / shutdowns)
+- Training library (short modules + field cards + verification)
 
 ---
 
-## Sales + commission mechanics
+## Staffing model (internal labor tiers)
 
-### Non-negotiable rule
-- Pay sales and web work **per invoice paid**, not on promises.
+> Used for scaling delivery without losing quality. Clear internal bands.
 
-### Lead-gen commission concept explored
-- A hunter who only brings new work; retention and delivery stay in-house.
-- Pricing exposure stays limited: give a simple expectation anchor (e.g., “$300/hr”) without exposing the full menu.
-- Commission idea floated: **$20 per billable hour** on a transferred lead **after first invoice is paid**.
+- **Tech 1:** **$22–$28/hr** (entry-level field support, logistics, basic observations, admin support on-site)
+- **Tech 2:** **$28–$40/hr** (competent field tech, can run standard tasks, supports audits/training delivery, assists investigations)
+- **Tech 3:** **$40–$65/hr** (senior tech/specialist, can lead field functions, train, support rescue operations, handle higher-risk tasks)
 
-### Paying for SEO help (brother)
-- Web dev paid per billable hour, but aligned to verified outcomes (invoices paid). Avoid paying for “traffic” without revenue.
+*Owner-led delivery remains the standard for high-stakes engagements; tech tiers expand capacity.*
 
 ---
 
-## Operations and staffing model
+## Operations and delivery mechanics
 
-### Staffing shape (future-proof)
-- Owner-led delivery early
-- Deployable field consultants / techs
-- Contract SMEs as needed (IH, electrical safety, rescue specialties, etc.)
-- Admin/ops support as soon as it stops being optional
-
-### Specialty leadership roles floated (future-state org chart)
-- Chief of Rescue Operations
-- Chief Wellness Officer
-- Specialized managers per service line as volume grows
-- Subcontracting as a built-in tool, not a last resort
-
-### Engagement structure
-- Scoped, contract-based delivery
-- Mix of one-offs + multi-site agreements + retainers
-- Add-ons that upsell naturally: investigations, specialty training, standby coverage, program builds
+- **Scoped, contract-based delivery** with clean deliverables and clean change control
+- **Remote-first when it saves time/cost**, on-site when it matters
+- **Proof and defensibility baked in:** clear records of decisions, hazards, controls, and follow-through
+- **Corrective actions tracked to closure** (or documented reasons why not)
 
 ---
 
@@ -184,41 +242,34 @@ Pricing menu already built and treated as canonical going forward. Key mechanics
 ### Visual direction
 - Serious, field-credible
 - Green/cream palette
-- Clean, modern layout rhythm (cards, bands, clear hierarchy)
+- Clean modern hierarchy (cards, bands, strong spacing)
 - Construction & Fire/Rescue treated equally
 
 ---
 
-## Website + SEO plan
+## Website + SEO plan (internal)
 
 ### Website philosophy
 - Clean, modern, mobile-first
 - SEO-minded but not spammy
 - Real images, credible tone
-- Copy that works for leadership and crews without pandering to either
+- Copy that works for leadership and crews without pandering
 
-### Content blocks in motion
-- Industry/service landing pages (construction/industrial, fire/rescue)
-- Credibility sections (capability, readiness, travel, methodology)
-- Lead capture (Google Forms now; can upgrade later)
-- Careers funnel
-- Case studies / proof once available
-
-### SEO targets (core search intent)
+### Core search intent targets
 - Mock OSHA audit
 - OSHA inspection readiness / inspection support (non-legal)
 - Standby rescue (confined space / fall protection)
 - Confined space rescue training
 - Rope rescue / technical rescue training
 - Industrial safety support / construction safety support
-- Chicago-based + built-to-travel positioning
+- Chicago + built-to-travel positioning
 
 ---
 
 ## Half-developed ideas & future product concepts
 
 ### Client dashboard / tracker (retainer accelerator)
-A lightweight system for:
+Lightweight system for:
 - audit results
 - corrective actions
 - training records
@@ -229,38 +280,28 @@ Useful for retainers and multi-site standardization; also creates proof over tim
 Repeatable audit template + scoring + corrective action playbook. Easy to sell, deliver, and scale. Feeds directly into retainer upsell.
 
 ### Fire-safe dog crate product concept (separate innovation track)
-Concept: fire-safe crate that unlocks automatically during a fire.
-- Option A: Bluetooth smoke detector replacement that triggers crate lock
-- Option B: crate-mounted smoke detector that triggers lock directly
+Fire-safe crate that unlocks automatically during a fire.
+- Option A: Bluetooth smoke detector replacement triggers crate lock
+- Option B: crate-mounted smoke detector triggers lock directly
 Goal: affordable components + realistic sourcing.
 
 ---
 
-## Near-term roadmap + goals
+## Differentiators (repeat + prove)
 
-- Build consulting business to **15–20 billable hours/week at $250/hr** within ~8 months
-- Grow marketing presence: website, cards, branding, org structure, pamphlets, social profiles
-- Start advertising aggressively once separation from full-time work is complete
-- By Aug 2026: maintain ~15 consulting hours/week and consider part-time hires
-- Long-term: scale to operate without constant owner presence while maintaining quality
-
----
-
-## Differentiators (keep repeating, keep proving)
-
-- Field credibility: built around high-consequence environments and real constraints
-- Practical execution: plans that survive schedule pressure and human reality
+- Field credibility in high-consequence environments
+- Practical execution: plans survive schedule pressure and human reality
 - Calm under pressure: inspections/incidents/high-risk ops handled cleanly
-- Training that respects the work: custom to current skill, time isn’t wasted
-- Response readiness is real: capability that holds up when it’s urgent, not just on paper
-- Built to travel: deployable capability is part of the identity
+- Training that respects the work: custom to current skill, no wasted time
+- Response readiness is real: capability that works when urgent, not just on paper
+- Built to travel: deployable capability is part of identity
 
 ---
 
 ## Open decisions / holes to fill
 
-- Final packaging: which offerings get fixed “starter packages” vs fully custom
-- Which service lines lead the brand (construction vs rescue vs apparatus) depending on target market
-- Minimum viable “dashboard” (how simple can it be and still be valuable)
-- Proof library plan: how to capture case studies, metrics, testimonials without being corny
+- Final packaging: what becomes fixed “starter packages” vs fully custom
+- Which lane leads the brand by market (construction vs rescue vs apparatus)
+- Minimum viable dashboard (simple but valuable)
+- Proof library plan: metrics, testimonials, case studies without being corny
 - Partnership map: which SMEs get standardized subcontract agreements first
