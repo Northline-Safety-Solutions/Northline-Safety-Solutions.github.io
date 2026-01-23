@@ -14,7 +14,7 @@
   <meta property="og:title" content="Northline Safety Solutions" />
   <meta property="og:description" content="Protecting people and businesses. Practical safety, OSHA readiness, standby rescue, and technical rescue training—built for high-consequence work." />
   <meta property="og:type" content="website" />
-  <meta property="og:image" content="assets/northline-logo.png" />
+  <meta property="og:image" content="assets/Northline-logo.png" />
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -46,10 +46,14 @@
       margin:0;
       font-family: "Source Sans 3", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
       color: var(--ink);
+
+      /* Slightly smoother background transitions (less banding/edges on mobile) */
       background:
-        radial-gradient(1000px 550px at 15% -10%, rgba(15,58,44,.14), transparent 60%),
-        radial-gradient(900px 450px at 85% 0%, rgba(15,58,44,.10), transparent 62%),
+        radial-gradient(1100px 620px at 12% -12%, rgba(15,58,44,.14), transparent 62%),
+        radial-gradient(980px 520px at 88% -5%, rgba(15,58,44,.10), transparent 64%),
+        linear-gradient(180deg, rgba(251,247,236,.88), rgba(246,241,227,1)),
         var(--bg);
+
       line-height: 1.55;
     }
 
@@ -67,7 +71,7 @@
       z-index: 50;
       backdrop-filter: blur(10px);
       background: rgba(246,241,227,.70);
-      border-bottom: 1px solid var(--line);
+      border-bottom: 1px solid rgba(17,58,44,.14);
     }
     .topbar .row{
       display:flex;
@@ -170,7 +174,7 @@
     /* Hero */
     header.hero{ padding: 28px 0 16px; }
     .heroCard{
-      border: 1px solid var(--line);
+      border: 1px solid rgba(17,58,44,.14);
       border-radius: var(--r2);
       background: linear-gradient(180deg, rgba(251,247,236,.92), rgba(251,247,236,.74));
       box-shadow: var(--shadow);
@@ -228,17 +232,48 @@
       margin-top: 16px;
     }
 
+    /* === Hero Right Panel: remove hard seam lines, use gradient fades === */
     .heroRight{
-      border-left: 1px solid var(--line);
-      background:
-        radial-gradient(800px 320px at 55% 25%, rgba(15,58,44,.14), transparent 62%),
-        linear-gradient(180deg, rgba(15,58,44,.10), rgba(15,58,44,.02));
       position: relative;
       min-height: 320px;
+      overflow: hidden;
+
+      /* Smooth panel background */
+      background:
+        radial-gradient(900px 420px at 70% 20%, rgba(15,58,44,.14), transparent 65%),
+        radial-gradient(700px 520px at 30% 85%, rgba(239,230,207,.55), transparent 62%),
+        linear-gradient(180deg, rgba(15,58,44,.08), rgba(15,58,44,.02));
     }
+    /* Soft seam fade instead of a hard border-left */
+    .heroRight::before{
+      content:"";
+      position:absolute;
+      inset: 0;
+      pointer-events:none;
+      /* Fade from left edge inward (seam softener) */
+      background: linear-gradient(90deg,
+        rgba(17,58,44,.20),
+        rgba(17,58,44,.10) 24px,
+        rgba(17,58,44,0) 64px
+      );
+      opacity: .55;
+    }
+
     @media (max-width: 920px){
-      .heroRight{ border-left:none; border-top:1px solid var(--line); min-height: 260px; }
+      .heroRight{
+        min-height: 260px;
+      }
+      /* On mobile, seam is horizontal; soften the top edge */
+      .heroRight::before{
+        background: linear-gradient(180deg,
+          rgba(17,58,44,.20),
+          rgba(17,58,44,.10) 20px,
+          rgba(17,58,44,0) 56px
+        );
+        opacity: .50;
+      }
     }
+
     .heroMedia{
       position:absolute;
       inset: 0;
@@ -246,6 +281,7 @@
       display:flex;
       align-items:center;
       justify-content:center;
+      z-index: 1; /* above the seam fade */
     }
     .heroMedia img{
       width: 100%;
@@ -253,7 +289,7 @@
       object-fit: contain;
       border-radius: 18px;
       background: rgba(251,247,236,.55);
-      border: 1px solid rgba(15,58,44,.18);
+      border: 1px solid rgba(15,58,44,.14);
       box-shadow: var(--shadow2);
       display:block;
     }
@@ -281,7 +317,7 @@
     }
 
     .card{
-      border: 1px solid var(--line);
+      border: 1px solid rgba(17,58,44,.14);
       border-radius: var(--r);
       background: linear-gradient(180deg, rgba(251,247,236,.90), rgba(251,247,236,.72));
       box-shadow: var(--shadow2);
@@ -346,7 +382,9 @@
       border-radius: var(--r2);
       padding: 18px;
       border: 1px solid rgba(15,58,44,.16);
-      background: linear-gradient(145deg, rgba(15,58,44,.08), rgba(239,230,207,.35));
+      background:
+        radial-gradient(520px 280px at 18% 20%, rgba(15,58,44,.10), transparent 66%),
+        linear-gradient(145deg, rgba(15,58,44,.08), rgba(239,230,207,.35));
       box-shadow: 0 10px 24px rgba(11,21,16,.06);
     }
     .bandGrid{
@@ -371,7 +409,7 @@
     .imgCard{
       overflow:hidden;
       border-radius: var(--r);
-      border: 1px solid var(--line);
+      border: 1px solid rgba(17,58,44,.14);
       background: rgba(251,247,236,.65);
       box-shadow: var(--shadow2);
       min-height: 240px;
@@ -387,7 +425,7 @@
     }
     .caption{
       padding: 10px 12px;
-      border-top: 1px solid var(--line);
+      border-top: 1px solid rgba(17,58,44,.12);
       background: rgba(251,247,236,.82);
       color: rgba(11,21,16,.72);
       font-size: 13px;
@@ -468,13 +506,15 @@
           <div class="mark" aria-hidden="true"><span>N</span></div>
           <div class="brandtext">
             <strong>Northline Safety Solutions</strong>
-            <small>Safety • OSHA Support • Standby Rescue • Technical Rescue Training</small>
+            <!-- UPDATED: broader so it doesn't look like only 2–3 services -->
+            <small>Risk Management • OSHA Readiness • Standby Rescue • Safety &amp; Rescue Training</small>
           </div>
         </div>
 
+        <!-- UPDATED NAV ORDER -->
         <nav class="nav" aria-label="Primary navigation">
-          <a class="link" href="#overview">Overview</a>
           <a class="link" href="#services">Services</a>
+          <a class="link" href="#overview">Overview</a>
           <a class="link" href="#pricing">Pricing</a>
           <a class="link" href="#why">Why Northline</a>
           <a class="btn primary" href="https://docs.google.com/forms/d/e/1FAIpQLSe9qe8kAqFIArG7ioAkkibTgnb6o0cEG7Glsw9jKXR1BCiE9g/viewform?usp=sharing&ouid=114412811808236077708" target="_blank" rel="noopener">Request a Custom Quote</a>
@@ -512,7 +552,6 @@
 
           <div class="heroRight">
             <div class="heroMedia">
-              <!-- INSERTED: Northline-logo.png -->
               <img
                 src="assets/Northline-logo.png"
                 alt="Northline Safety Solutions logo"
@@ -737,7 +776,6 @@
       <div class="imgGrid">
         <div class="card">
           <div class="imgCard">
-            <!-- INSERTED: world-map.png -->
             <img
               src="assets/world-map.png"
               alt="World map showing Northline's ability to support projects nationwide and internationally"
@@ -757,7 +795,7 @@
               <div style="font-weight:900; font-size:16px; margin-bottom:6px;">Common requests</div>
               <div style="color:rgba(11,21,16,.78);">
                 Mock OSHA audit • OSHA inspection readiness • Standby rescue • LOTO program development • Recordability management •
-                On-site safety training • Confined space rescue training • Rope rescue training • Apparatus & equipment testing • Remote fire department consulting
+                On-site safety training • Confined space rescue training • Rope rescue training • Apparatus &amp; equipment testing • Remote fire department consulting
               </div>
             </div>
           </div>
@@ -772,13 +810,13 @@
       <div class="footRow">
         <div>
           <strong>Northline Safety Solutions</strong><br>
-          <span>Protect people and businesses. • Chicago-based • Built to travel</span>
+          <span>Protecting people and businesses. • Chicago-based • Built to travel</span>
         </div>
         <div class="mutelinks">
-          <a href="#overview">Overview</a>
           <a href="#services">Services</a>
+          <a href="#overview">Overview</a>
           <a href="#pricing">Pricing</a>
-          <a href="#why">Why</a>
+          <a href="#why">Why Northline</a>
         </div>
       </div>
     </div>
