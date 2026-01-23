@@ -1,3 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Northline Safety Solutions | Safety Oversight, OSHA Support, Standby Rescue, Technical Rescue Training</title>
+    <meta
+      name="description"
+      content="Northline Safety Solutions provides construction & industrial safety consulting, mock OSHA audits, regulatory support, incident investigations, standby rescue, and technical rescue training. Built to travel."
+    />
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href="https://YOURDOMAIN.com/" />
+
+    <!-- Minimal, readability-only styling -->
+    <style>
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+        line-height: 1.55;
+      }
+      main {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 24px;
+      }
+      header {
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 16px;
+        margin-bottom: 16px;
+      }
+      h1 {
+        margin: 0 0 8px;
+        font-size: 1.6rem;
+      }
+      .subhead {
+        margin: 0;
+        color: #444;
+      }
+      nav {
+        margin-top: 12px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+      nav a {
+        text-decoration: underline;
+        color: inherit;
+      }
+      details {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 12px 14px;
+        margin: 12px 0;
+      }
+      summary {
+        cursor: pointer;
+        font-weight: 700;
+      }
+      details > div {
+        margin-top: 10px;
+      }
+      ul {
+        margin: 8px 0 0;
+        padding-left: 18px;
+      }
+      .note {
+        font-size: 0.95rem;
+        color: #444;
+      }
+      .cta a {
+        display: inline-block;
+        margin-right: 12px;
+        margin-top: 6px;
+      }
+      footer {
+        margin-top: 26px;
+        padding-top: 16px;
+        border-top: 1px solid #ddd;
+        font-size: 0.95rem;
+        color: #444;
+      }
+      code.inline {
+        background: #f4f4f4;
+        padding: 2px 6px;
+        border-radius: 6px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <main>
+      <header>
+        <h1>Northline Safety Solutions</h1>
+        <p class="subhead">Safety • OSHA Support • Standby Rescue • Technical Rescue Training</p>
+
+        <nav aria-label="Primary">
+          <a href="#overview">Overview</a>
+          <a href="#services">Services</a>
+          <a href="#differentiators">Differentiators</a>
+          <a href="#ads">Facebook Ad Copy</a>
+          <a href="#contact">Contact</a>
+        </nav>
+
+        <p class="note">
+          Replace placeholders
 # Northline Safety Solutions — Master Notes 
 
 > Consolidated “source of truth” notes: positioning, services, niches, skills, retainer/package ideas (no pricing tables), ops, and future concepts. Pull from this for website copy, proposals, capability statements, decks, SOPs, and intake forms.
