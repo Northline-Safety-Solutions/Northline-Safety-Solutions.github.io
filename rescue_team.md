@@ -1,5 +1,10 @@
+# Title Question: [Joey adds here]
 
-## Summary
+## TLDR
+
+[Joey adds here]
+
+## Overview
 
 In high-hazard industries (construction, utilities/power, petroleum, and similar sectors), emergency response planning is undergoing a noticeable operational shift. Confined space and fall protection (high angle/suspension) rescue planning is moving away from exclusive reliance on public 911 systems and toward **on-site resources** that are integrated into the planning process and are present during high-consequence work. This change reframes rescue as part of the job plan, directly influencing extraction speed, the likelihood of escalation, and the human and financial consequences when something goes wrong.
 
