@@ -40,6 +40,18 @@ Wilson et al. (2012) reported median arrival times of approximately **5 minutes*
 
 In time-critical situations—injury, hazardous atmosphere, unexpected medical emergency—these delays directly influence survivability.
 
+```mermaid
+flowchart LR
+    A[Incident occurs] --> B{Rescue resources}
+    B -->|Call 911 only| C[Dispatch + travel<br/>~5-7 min to arrival]
+    C --> D[Size-up + hazard control]
+    D --> E[Equipment staging<br/>system assembly/testing]
+    E --> F[Extraction<br/>48-173 min total]
+    B -->|On-site rescue team| G[Immediate access<br/>pre-planned equipment]
+    G --> H[Rapid size-up<br/>site-specific hazards known]
+    H --> I[Extraction<br/>within critical window]
+```
+
 ---
 
 ## Fall Protection: Arrested Falls Still Require Rescue
@@ -85,7 +97,6 @@ Rauch, S., Schenk, K., Strapazzon, G., et al. (2019). Suspension syndrome: A pot
 Selman, J., Spickett, J., Jansz, J., & Mullins, B. (2018). An investigation into the rate and mechanism of incident of work-related confined space fatalities. *Safety Science, 109*, 333–343.
 
 Wilson, M. P., Madison, H. N., & Healy, S. B. (2012). Confined space emergency response: Assessing employer and fire department practices. *Journal of Occupational and Environmental Hygiene, 9*(2), 120–128.
-
 
 
 
