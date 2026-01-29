@@ -2,7 +2,7 @@
 
 ## Ranked Services
 
-### Construction & Industrial Support
+### Construction & Industrial Support (9)
 
 #### Mock OSHA audit
 - **basic search**: construction and industrial safety company
@@ -41,7 +41,7 @@
 - **question**:
 
 
-### Fire / Rescue & Response Readiness
+### Fire / Rescue & Response Readiness (9)
 
 #### Fire apparatus & equipment inspection/testing
 - **basic search**: fire apparatus inspection and testing
