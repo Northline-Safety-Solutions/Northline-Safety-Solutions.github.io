@@ -2,7 +2,7 @@
 
 ## Ranked Services
 
-### Construction & Industrial Support (9)
+#### Construction & Industrial Support
 
 #### Mock OSHA audit
 - **basic search**: construction and industrial safety company
@@ -13,73 +13,29 @@
 #### OSHA inspection readiness
 - **basic search**: construction and industrial safety company
 - **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
 
 #### Standby rescue (confined space / fall protection)
 - **basic search**: confined space rescue team
 - **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
 
 #### High-risk work planning (energized work, LOTO, confined space, lifting/rigging, SIMOPS)
 - **basic search**: construction and industrial safety company
 - **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
 
 #### LOTO program development (procedures + verification habits)
 - **basic search**: construction and industrial safety company
 - **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
 
 #### Recordability management (coaching, prevention, reporting discipline)
-- **basic search**: construction and industrial safety company
-- **question**:
-
-#### Incident investigations (root cause → fixes crews execute)
-- **basic search**: accident investigator
-- **question**:
-
-#### OSHA inspection support (non-legal) (organize facts, coach leadership, process + documentation)
-- **basic search**: construction and industrial safety company
-- **question**:
-
-#### On-site safety training (custom, crew-level, practical)
-- **basic search**: construction and industrial safety company
-- **question**:
-
-
-### Fire / Rescue & Response Readiness (9)
-
-#### Fire apparatus & equipment inspection/testing
-- **basic search**: fire apparatus inspection and testing
-- **question**:
-
-#### Custom technical rescue training
-- **basic search**: custom fire department training
-- **question**:
-
-#### Standby rescue team contractor
-- **basic search**: confined space rescue team
-- **question**:
-
-#### Confined space rescue training (practitioner-focused execution)
-- **basic search**: confined space rescue team
-- **question**:
-
-#### Rope rescue training (low-angle + high-angle, real-world constraints)
-- **basic search**: high angle rescue team
-- **question**:
-
-#### Technical rescue instructor support (district-specific plan)
-- **basic search**: custom fire department training
-- **question**:
-
-#### Pre-incident planning (fit staffing + equipment reality)
-- **basic search**:
-- **question**:
-
-#### Apparatus & equipment readiness (inspection/testing/training)
-- **basic search**: fire apparatus training
-- **question**:
-
-#### Remote fire department consulting (planning, review, coaching)
-- **basic search**: custom fire department training
-- **question**:
+- **basic search**: const
 
 
 # Appendix
