@@ -93,7 +93,66 @@ Rauch et al. (2019) supports the time-critical nature of suspension, observing p
 
 This operational shift reflects a broader recognition: in high-hazard work, emergency response must be treated less like **“call 911 and wait”** and more like **a planned, integrated component of the work itself**. When consequences are high and time is critical, on-site rescue readiness can determine whether an incident ends as a rescue—or becomes a recovery.
 
+
+
+
 ---
+
+## Appendix
+
+# Professional standby rescue & technical rescue services (examples)
+
+| Provider | Service focus | Good fit for | Website |
+|---|---|---|---|
+| Total Safety | Industrial emergency response + standby rescue (confined space / high-angle) | Large industrial sites, turnarounds, outages, multi-site programs | [totalsafety.com](https://www.totalsafety.com/industrial-rescue-services/) |
+| SITEX Solutions | On-site confined space rescue + standby rescue teams | Sites that want integrated, on-site rescue coverage during high-risk work | [sitexsolutions.com](https://sitexsolutions.com/rescue-services/confined-space-rescue-services/) |
+| Maddox Industrial Group | 24/7 standby rescue + confined space support (plus rope-access capability) | Industrial maintenance/projects needing difficult-access support + standby coverage | [maddoxindustrial.com](https://www.maddoxindustrial.com/confined-space-rescue-services) |
+| Industrial Rescue | Standby rescue; confined space rescue; high-angle rope access | Industrial and construction environments needing dedicated standby teams | [industrialrescue.com](https://www.industrialrescue.com/services/) |
+| DCS Rescue | Confined space rescue + technical rope rescue + EMS capability | Permit-required confined space work needing qualified rescue/medical response | [dcsrescue.com](https://dcsrescue.com/confined-space-rescue/) |
+| Pro Safety & Rescue | Confined space rescue + rope rescue capability + safety support | Job sites needing rescue capability plus broader safety/EMS support | [prosafetyandrescue.com](https://www.prosafetyandrescue.com/solutions/confined-space-rescue/) |
+| Rescue Solutions, LLC | Training + standby + rescue services (incl. EMT/paramedic/hazmat capability) | Companies that want a combined training + standby coverage partner | [rescuesolutionsllc.com](https://rescuesolutionsllc.com/services/) |
+| NAES (Power Plant focused) | 24/7 standby high-angle + confined space rescue program | Power generation facilities and similar continuous-ops environments | [naes.com](https://www.naes.com/stand-by-confined-space-rescue/) |
+| TekSolv | Rescue services with pre-planning / permit support + trained personnel | Facilities that want rescue support tied into permit execution and planning | [teksolv.com](https://www.teksolv.com/rescue-services) |
+| Elevated Safety | Stand-by rescue (confined space teams + rope rigging/supervision) | Work-at-height and difficult-access jobs needing rope systems oversight | [elevatedsafety.com](https://elevatedsafety.com/Services/stand-by-rescue/) |
+| Roco Rescue | Standby rescue + heavy emphasis on rescue training (industrial/confined space/high-angle) | Teams building internal capability + sites that also want standby coverage | [rocorescue.com](https://rocorescue.com/standby-rescue/) |
+
+
+Source notes (what each company publicly advertises): Total Safety’s industrial rescue/standby positioning and OSHA/NFPA references ; SITEX on-site confined space rescue + standby teams ; Maddox Industrial 24/7 standby rescue + confined space services and rope-access capability ; Industrial Rescue services listing (confined space + high-angle rope access) ; DCS Rescue technical rescue/EMS positioning ; Pro Safety & Rescue rope rescue + confined space rescue claims ; Rescue Solutions “training to standby to rescue” and deploy/availability language ; NAES “24/7” standby high-angle + confined space rescue language ; TekSolv preplanning/permit management + trained personnel language ; Elevated Safety stand-by rescue scope ; Roco standby rescue staffing/training positioning .
+
+## How to vet a standby rescue / technical rescue vendor (OSHA-aligned)
+
+Use this as a quick RFP / pre-qual checklist for **confined space** and **fall protection (suspension/high-angle)** standby rescue coverage.
+
+### Confined space standby rescue (permit-required)
+- [ ] **They can reach the victim in *your* spaces** (not just “we do confined space rescue”) — require a site walkdown and a space list.
+- [ ] **Prove capability + proficiency**: ask for a written statement of capability, staffing plan, and equipment list for the specific hazards (atmospheric, engulfment, vertical entry, etc.).
+- [ ] **Practice rescues are documented**: require drill records showing **simulated rescue practice at least every 12 months** (or evidence of an actual rescue within that period), and require a **practice run** in a representative space before first deployment.
+- [ ] **Integration into the job plan**: confirm how they interface with permits, attendants, gas testing, and LOTO / hazard control.
+- [ ] **Access for rescuers**: confirm they will be given access to permit spaces so they can plan and rehearse.
+
+**References (confined space):**
+- OSHA General Industry PRCS standard **29 CFR 1910.146** and **Appendix F** (rescue service evaluation + practice rescues).  
+- OSHA Construction confined spaces **29 CFR 1926.1211** (rescue and emergency services; practice rescues at least annually).
+
+### Fall protection / suspended worker rescue (prompt rescue requirement)
+- [ ] **Written rescue plan** that provides **prompt rescue** (or confirms self-rescue capability), including method-by-method plans (MEWP/lift, ladder pickoff, rope-based lower/raise, controlled descent, etc.).
+- [ ] **Time objective + constraints**: define target rescue time and what happens when the “easy” method isn’t available (lift can’t reach, obstructions, uneven ground, power loss, etc.).
+- [ ] **Equipment staged and immediately accessible** (not in a trailer 10 minutes away), with inspection logs.
+- [ ] **Dedicated staffing during exposure** (not “we’ll show up if you call us”).
+
+**References (fall protection prompt rescue):**
+- OSHA General Industry fall protection **29 CFR 1910.140(c)(21)** (prompt rescue).  
+- OSHA Construction fall protection **29 CFR 1926.502(d)(20)** (prompt rescue or self-rescue).
+
+### Technical rescue competence (industry standard alignment)
+- [ ] Confirm their training/operations align to **NFPA 2500** (technical rescue operations & training + life safety rope/equipment standard).
+- [ ] Ask for a skills matrix (who is qualified for what: attendant, entry rescue, rope tech, medic, etc.) and recent drill cadence.
+
+**Reference (industry standard):**
+- **NFPA 2500** standard development + publication pages.
+
+Sources: OSHA PRCS 29 CFR 1910.146 (and rescue practice language) ; OSHA 1910.146 Appendix F (rescue team/service guidance) ; OSHA fall protection 1910.140(c)(21) (prompt rescue) ; OSHA construction fall protection 1926.502(d)(20) (prompt rescue or self-rescue) ; OSHA construction confined space rescue 1926.1211 (rescue & annual practice) ; NFPA 2500 standard pages .
+
 
 ## References (APA 7th)
 
