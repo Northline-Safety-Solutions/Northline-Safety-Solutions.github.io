@@ -10,6 +10,20 @@ In high-hazard industries (construction, utilities/power, petroleum, and similar
 
 ---
 
+```mermaid
+flowchart LR
+    A[Incident occurs] --> B{Rescue resources}
+    B -->|Call 911 only| C[Dispatch + travel<br/>~5-7 min to arrival]
+    C --> D[Size-up + hazard control]
+    D --> E[Equipment staging<br/>system assembly/testing]
+    E --> F[Extraction<br/>48-173 min total]
+    B -->|On-site rescue team| G[Immediate access<br/>pre-planned equipment]
+    G --> H[Rapid size-up<br/>site-specific hazards known]
+    H --> I[Extraction<br/>within critical window]
+```
+
+---
+
 ## Why “Call 911” Often Isn’t Enough
 
 When public emergency response systems are relied upon, rescue timelines must account for:
