@@ -310,6 +310,162 @@ Custom training is compliant when it:
 
 Northline’s approach ensures training is **regulator-aligned, field-relevant, and defensible** — without wasting time on material people already know.
 
+# Fire Apparatus Testing & NDT — FAQ
+
+This section explains when fire apparatus performance testing and non-destructive testing (NDT) are required, why oversight matters, and how Northline supports departments by managing compliance across multiple testing disciplines.
+
+---
+
+## Q: When do I need my fire apparatus performance tested or NDT performed?
+
+**A:**  
+Fire apparatus performance testing and non-destructive testing (NDT) are required when **NFPA standards, manufacturer guidance, ISO criteria, or department policy** require verification that critical systems are operating safely and as designed.
+
+In most cases, this includes testing required under **NFPA 1911**, **NFPA 1932**, **NFPA 1962**, and related standards.
+
+**Common testing requirements include:**
+- Annual **pump performance testing** (NFPA 1911)
+- **Ground ladder testing** (NFPA 1932)
+- **Fire hose testing** (NFPA 1962)
+- **Aerial device testing** (performed by qualified aerial testing providers per NFPA standards)
+- **Non-destructive testing (NDT)** of critical components when required by standard, manufacturer, or inspection findings
+
+These tests are not check-the-box exercises. They exist to confirm apparatus will perform under emergency conditions and that failures are identified **before** they put firefighters or the public at risk.
+
+---
+
+## Q: Why is fire apparatus testing required even if the truck “seems fine”?
+
+**A:**  
+Many apparatus failures are **not visible** during daily checks or routine inspections.
+
+Performance testing and NDT are designed to identify issues such as:
+- Loss of pump capacity or performance degradation
+- Structural fatigue or cracking
+- Hose failures under pressure
+- Ladder defects not visible to the naked eye
+- Mechanical or material fatigue developing over time
+
+NFPA standards require testing because **emergency operations expose weaknesses** that normal operation does not. Testing verifies readiness before those conditions occur.
+
+---
+
+## Q: What types of fire apparatus testing are typically required?
+
+**A:**  
+Most departments are responsible for coordinating multiple forms of testing governed by different NFPA standards, including:
+
+- Pump performance testing (NFPA 1911)
+- Ground ladder testing (NFPA 1932)
+- Fire hose testing (NFPA 1962)
+- Aerial device testing (by specialized, qualified providers)
+- Targeted NDT when required by standard, manufacturer, or inspection findings
+
+Each discipline has its own procedures, acceptance criteria, and documentation requirements — and they are often performed by **different vendors**.
+
+---
+
+## Q: Why is managing and supervising apparatus testing important?
+
+**A:**  
+Many apparatus testing vendors operate independently, seasonally, or with limited oversight. While some are highly capable, others may:
+
+- Focus only on their specific test
+- Lack deeper fire service or apparatus experience
+- Rely on temporary or lightly trained staff
+- Provide pass/fail results without operational context
+- Fail to coordinate findings across systems
+
+Without proper oversight, departments can experience:
+- Inconsistent testing quality
+- Missed or misunderstood deficiencies
+- Conflicting recommendations
+- Incomplete or weak documentation
+- Increased liability exposure
+
+Fire apparatus compliance is a **system-level responsibility**, not a collection of isolated tests.
+
+---
+
+## Q: How does Northline Safety Solutions support fire apparatus testing?
+
+**A:**  
+Northline provides **independent oversight, coordination, and quality control** for fire apparatus performance testing and NDT.
+
+Rather than relying on individual vendors to manage the process, Northline:
+- Supervises and coordinates **qualified testing providers**
+- Ensures testing aligns with applicable **NFPA standards** and manufacturer guidance
+- Verifies procedures, results, and documentation
+- Identifies trends or concerns across multiple systems and apparatus
+- Acts as a technical advocate for the department
+
+Northline does **not** replace specialized testing vendors — we ensure their work is **proper, consistent, and defensible**.
+
+---
+
+## Q: Why not just subcontract testing directly to individual vendors?
+
+**A:**  
+Individual testing vendors often perform competent work within a narrow scope. However, most are not positioned to provide:
+
+- System-level oversight
+- Cross-discipline interpretation of results
+- Apparatus-specific operational context
+- Consistency across an entire fleet
+- Long-term risk and compliance management
+
+Many testing companies are:
+- Seasonal operations
+- Staffed by technicians with limited time in trade
+- Focused on volume rather than analysis
+- Accountable only for their individual report
+
+Fire apparatus are complex, integrated systems. Reviewing results in isolation can miss larger issues that affect reliability, safety, and compliance.
+
+---
+
+## Q: What makes Northline different from typical testing vendors?
+
+**A:**  
+Northline brings **fire service experience, technical judgment, and accountability** to the testing process.
+
+That means:
+- Results are reviewed by professionals who understand **how apparatus are actually used**
+- Deficiencies are evaluated in operational context — not just pass/fail
+- Departments receive clear, prioritized guidance
+- Documentation is consistent, complete, and defensible
+- Risk is managed across the **entire fleet**, not one test at a time
+
+Instead of juggling multiple seasonal vendors or relying on a single-purpose testing company, departments gain a **single point of professional oversight**.
+
+---
+
+## Q: When does it make sense to bring in Northline?
+
+**A:**  
+Departments commonly engage Northline when:
+- Managing multiple testing vendors
+- Overseeing a large or aging fleet
+- Preparing for audits, ISO review, or liability concerns
+- Experiencing inconsistent testing results
+- Needing independent verification and quality control
+- Wanting a professional advocate during apparatus compliance reviews
+
+---
+
+## Q: What’s the bottom line?
+
+**A:**  
+Fire apparatus testing is only as strong as the **oversight behind it**.
+
+Northline ensures:
+- Required testing is completed properly
+- Qualified providers are used
+- Results are reviewed with experience and context
+- Documentation protects the department
+- Apparatus are ready when they’re needed most
+
+
 
 
 ## Custom software
