@@ -1,4 +1,4 @@
-# Website and SEO model
+## Business model 
 
 ## Table of Contents
 
@@ -9,8 +9,17 @@
     - [Construction & Industrial Support](#construction--industrial-support)
     - [Fire / Rescue & Response Readiness](#fire--rescue--response-readiness)
 
+# Data products softweare ideas
 
-## Google search examples 
+...
+
+# Bespoke softweare ideas
+
+...
+
+## Website and SEO model
+
+### Google search examples 
 
 1. custom fire department training
 2. confined space rescue team
@@ -19,16 +28,16 @@
 5. accident investigator
 6. construction and industrial safety company
 
-## ChatGPT Q&A examples
+### ChatGPT Q&A examples
 
 1. ....
 2. ....
 3. ETC .....JOEY ADD STUFF HERE
 
 
-## Services
+### Services
 
-### Construction & Industrial Support
+#### Construction & Industrial Support
 
 - Mock OSHA audit
 - OSHA inspection readiness
@@ -40,7 +49,7 @@
 - OSHA inspection support (non-legal) (organize facts, coach leadership, process + documentation)
 - On-site safety training (custom, crew-level, practical)
 
-### Fire / Rescue & Response Readiness
+#### Fire / Rescue & Response Readiness
 
 - Fire apparatus & equipment inspection/testing
 - Custom technical rescue training
