@@ -4,6 +4,12 @@
 
 #### Construction & Industrial Support (9)
 
+#### Standby rescue (confined space / fall protection)
+- **basic search**: confined space rescue team
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
 #### [Mock OSHA audit](./Mock_OSHA_audit.md)
 - **basic search**: construction and industrial safety company
 - **question**:
@@ -16,11 +22,7 @@
 - [ ] deployed
 - Google seaarch console check traffic: ____ 
 
-#### Standby rescue (confined space / fall protection)
-- **basic search**: confined space rescue team
-- **question**:
-- [ ] deployed
-- Google seaarch console check traffic: ____ 
+
 
 #### High-risk work planning (energized work, LOTO, confined space, lifting/rigging, SIMOPS)
 - **basic search**: construction and industrial safety company
