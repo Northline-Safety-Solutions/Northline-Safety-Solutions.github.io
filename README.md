@@ -1,4 +1,4 @@
-# Channels to get to website
+# basic google searches 
 
 1. custom fire department training
 2. confined space rescue team
@@ -6,6 +6,13 @@
 4. fire apparatus inspection and training
 5. accident investigator
 6. construction and industrial safety company
+
+# Q&A
+
+....
+
+JOEY HERE
+
 
 ---
 
