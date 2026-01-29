@@ -1,3 +1,14 @@
+# Channels to get to website
+
+1. fire department training
+2. rescue team training
+3. fire apparatus inspection and training
+4. accident investigator
+5. construction and industrial safety company
+
+
+
+
 <details>
 <summary>## Header / Top Nav</summary>
 
