@@ -83,16 +83,6 @@
 # Appendix
 
 
-### Google search examples 
-
-1. custom fire department training
-2. confined space rescue team
-3. high anglse rescue team
-4. fire apparatus inspection and testing
-5. accident investigator
-6. Fire apparatus training
-7. construction and industrial safety company
-
 ---
 
 ## 1) Third-Party Safety Support (Construction / Industrial)
