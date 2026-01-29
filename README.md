@@ -26,8 +26,8 @@
 - Apparatus & equipment readiness (inspection/testing/training)
 - Remote fire department consulting (planning, review, coaching)
 
+# Appendix
 
-## Website
 
 ### Google search examples 
 
@@ -38,11 +38,6 @@
 5. accident investigator
 6. Fire apparatus training
 7. construction and industrial safety company
-
-### ChatGPT Q&A examples
-# Northline Safety Solutions — FAQ Content (Website / README)
-
-Use these Q&A blocks on your website (FAQ page, service pages, or blog). Written for owners, supers, and decision-makers.
 
 ---
 
