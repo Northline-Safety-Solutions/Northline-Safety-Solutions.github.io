@@ -1,41 +1,6 @@
-## Business model 
+# Business model 
 
-## Table of Contents
-
-- [Website and SEO model](#website-and-seo-model)
-  - [basic google searches](#basic-google-searches)
-  - [Q&A google searches](#qa-google-searches)
-  - [Services](#services)
-    - [Construction & Industrial Support](#construction--industrial-support)
-    - [Fire / Rescue & Response Readiness](#fire--rescue--response-readiness)
-
-# Data products softweare ideas
-
-...
-
-# Bespoke softweare ideas
-
-...
-
-## Website and SEO model
-
-### Google search examples 
-
-1. custom fire department training
-2. confined space rescue team
-3. high anglse rescue team
-4. fire apparatus inspection and training
-5. accident investigator
-6. construction and industrial safety company
-
-### ChatGPT Q&A examples
-
-1. ....
-2. ....
-3. ETC .....JOEY ADD STUFF HERE
-
-
-### Services
+## Services
 
 #### Construction & Industrial Support
 
@@ -60,3 +25,30 @@
 - Pre-incident planning (fit staffing + equipment reality)
 - Apparatus & equipment readiness (inspection/testing/training)
 - Remote fire department consulting (planning, review, coaching)
+
+
+## Website
+
+### Google search examples 
+
+1. custom fire department training
+2. confined space rescue team
+3. high anglse rescue team
+4. fire apparatus inspection and training
+5. accident investigator
+6. construction and industrial safety company
+
+### ChatGPT Q&A examples
+
+1. ....
+2. ....
+3. ETC .....JOEY ADD STUFF HERE
+
+
+
+#### Custom software
+
+...
+
+
+
