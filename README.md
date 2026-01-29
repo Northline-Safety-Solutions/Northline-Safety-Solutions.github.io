@@ -4,7 +4,7 @@
 
 #### Construction & Industrial Support (9)
 
-#### Mock OSHA audit
+#### [Mock OSHA audit](./Mock_OSHA_audit.md)
 - **basic search**: construction and industrial safety company
 - **question**:
 - [ ] deployed
