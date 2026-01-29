@@ -19,7 +19,7 @@
 5. accident investigator
 6. construction and industrial safety company
 
-# ChatGPT Q&A examples
+## ChatGPT Q&A examples
 
 1. ....
 2. ....
@@ -29,8 +29,6 @@
 ## Services
 
 ### Construction & Industrial Support
-
-**Service list**
 
 - Mock OSHA audit
 - OSHA inspection readiness
@@ -43,8 +41,6 @@
 - On-site safety training (custom, crew-level, practical)
 
 ### Fire / Rescue & Response Readiness
-
-**Service list**
 
 - Fire apparatus & equipment inspection/testing
 - Custom technical rescue training
