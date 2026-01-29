@@ -7,8 +7,8 @@
 #### Mock OSHA audit
 - **basic search**: construction and industrial safety company
 - **question**:
-- [ ] deployed ?
-- [ ] Google seaarch console check traffic 
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
 
 #### OSHA inspection readiness
 - **basic search**: construction and industrial safety company
