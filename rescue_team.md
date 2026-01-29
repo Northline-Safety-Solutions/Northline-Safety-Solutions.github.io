@@ -2,7 +2,7 @@
 
 ## TLDR
 
-[Joey adds here]
+[Joey adds just 1 sentence here...maybe a few bullet points, if needed]
 
 ## Overview
 
