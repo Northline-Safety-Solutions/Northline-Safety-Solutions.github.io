@@ -1,8 +1,8 @@
 # Business model 
 
-## Ranked Services
+## 18 Ranked Services
 
-#### Construction & Industrial Support
+#### Construction & Industrial Support (9)
 
 #### Mock OSHA audit
 - **basic search**: construction and industrial safety company
@@ -35,7 +35,85 @@
 - Google seaarch console check traffic: ____ 
 
 #### Recordability management (coaching, prevention, reporting discipline)
-- **basic search**: const
+- **basic search**: construction and industrial safety company
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Incident investigations (root cause → fixes crews execute)
+- **basic search**: accident investigator
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### OSHA inspection support (non-legal) (organize facts, coach leadership, process + documentation)
+- **basic search**: construction and industrial safety company
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### On-site safety training (custom, crew-level, practical)
+- **basic search**: construction and industrial safety company
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+
+#### Fire / Rescue & Response Readiness (9)
+
+#### Fire apparatus & equipment inspection/testing
+- **basic search**: fire apparatus inspection and testing
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Custom technical rescue training
+- **basic search**: custom fire department training
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Standby rescue team contractor
+- **basic search**: confined space rescue team
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Confined space rescue training (practitioner-focused execution)
+- **basic search**: confined space rescue team
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Rope rescue training (low-angle + high-angle, real-world constraints)
+- **basic search**: high angle rescue team
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Technical rescue instructor support (district-specific plan)
+- **basic search**: custom fire department training
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Pre-incident planning (fit staffing + equipment reality)
+- **basic search**:
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Apparatus & equipment readiness (inspection/testing/training)
+- **basic search**: fire apparatus training
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
+
+#### Remote fire department consulting (planning, review, coaching)
+- **basic search**: custom fire department training
+- **question**:
+- [ ] deployed
+- Google seaarch console check traffic: ____ 
 
 
 # Appendix
