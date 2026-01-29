@@ -1,6 +1,16 @@
 # Website and SEO model
 
-## basic google searches 
+## Table of Contents
+
+- [Website and SEO model](#website-and-seo-model)
+  - [basic google searches](#basic-google-searches)
+  - [Q&A google searches](#qa-google-searches)
+  - [Services](#services)
+    - [Construction & Industrial Support](#construction--industrial-support)
+    - [Fire / Rescue & Response Readiness](#fire--rescue--response-readiness)
+
+
+## Google search examples 
 
 1. custom fire department training
 2. confined space rescue team
@@ -9,7 +19,7 @@
 5. accident investigator
 6. construction and industrial safety company
 
-# Q&A google searches
+# ChatGPT Q&A examples
 
 1. ....
 2. ....
