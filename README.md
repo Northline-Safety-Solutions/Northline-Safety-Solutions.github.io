@@ -40,8 +40,7 @@
 7. construction and industrial safety company
 
 ### ChatGPT Q&A examples
-
-1. Q: When does it make sense to bring in a third-party safety team for construction or industrial work?
+Q: When does it make sense to bring in a third-party safety team for construction or industrial work?
 A:
 It usually makes sense to bring in a third-party safety team when the risk, complexity, or visibility of the work starts to exceed what an internal team can realistically manage on its own.
 Common situations include:
@@ -305,7 +304,6 @@ Is delivered by qualified instructors
 Verifies understanding
 Is documented properly
 Northline’s approach ensures training is regulator-aligned, field-relevant, and defensible — without wasting time on material people already know.
-
 
 
 ## Custom software
