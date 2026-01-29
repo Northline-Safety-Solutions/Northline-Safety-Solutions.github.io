@@ -4,27 +4,81 @@
 
 #### Construction & Industrial Support
 
-- Mock OSHA audit
-- OSHA inspection readiness
-- Standby rescue (confined space / fall protection)
-- High-risk work planning (energized work, LOTO, confined space, lifting/rigging, SIMOPS)
-- LOTO program development (procedures + verification habits)
-- Recordability management (coaching, prevention, reporting discipline)
-- Incident investigations (root cause → fixes crews execute)
-- OSHA inspection support (non-legal) (organize facts, coach leadership, process + documentation)
-- On-site safety training (custom, crew-level, practical)
+##### Mock OSHA audit
+- **basic search**: construction and industrial safety company
+- **question**:
+
+##### OSHA inspection readiness
+- **basic search**: construction and industrial safety company
+- **question**:
+
+##### Standby rescue (confined space / fall protection)
+- **basic search**: confined space rescue team
+- **question**:
+
+##### High-risk work planning (energized work, LOTO, confined space, lifting/rigging, SIMOPS)
+- **basic search**: construction and industrial safety company
+- **question**:
+
+##### LOTO program development (procedures + verification habits)
+- **basic search**: construction and industrial safety company
+- **question**:
+
+##### Recordability management (coaching, prevention, reporting discipline)
+- **basic search**: construction and industrial safety company
+- **question**:
+
+##### Incident investigations (root cause → fixes crews execute)
+- **basic search**: accident investigator
+- **question**:
+
+##### OSHA inspection support (non-legal) (organize facts, coach leadership, process + documentation)
+- **basic search**: construction and industrial safety company
+- **question**:
+
+##### On-site safety training (custom, crew-level, practical)
+- **basic search**: construction and industrial safety company
+- **question**:
+
 
 #### Fire / Rescue & Response Readiness
 
-- Fire apparatus & equipment inspection/testing
-- Custom technical rescue training
-- Standby rescue team contractor
-- Confined space rescue training (practitioner-focused execution)
-- Rope rescue training (low-angle + high-angle, real-world constraints)
-- Technical rescue instructor support (district-specific plan)
-- Pre-incident planning (fit staffing + equipment reality)
-- Apparatus & equipment readiness (inspection/testing/training)
-- Remote fire department consulting (planning, review, coaching)
+##### Fire apparatus & equipment inspection/testing
+- **basic search**: fire apparatus inspection and testing
+- **question**:
+
+##### Custom technical rescue training
+- **basic search**: custom fire department training
+- **question**:
+
+##### Standby rescue team contractor
+- **basic search**: confined space rescue team
+- **question**:
+
+##### Confined space rescue training (practitioner-focused execution)
+- **basic search**: confined space rescue team
+- **question**:
+
+##### Rope rescue training (low-angle + high-angle, real-world constraints)
+- **basic search**: high angle rescue team
+- **question**:
+
+##### Technical rescue instructor support (district-specific plan)
+- **basic search**: custom fire department training
+- **question**:
+
+##### Pre-incident planning (fit staffing + equipment reality)
+- **basic search**:
+- **question**:
+
+##### Apparatus & equipment readiness (inspection/testing/training)
+- **basic search**: fire apparatus training
+- **question**:
+
+##### Remote fire department consulting (planning, review, coaching)
+- **basic search**: custom fire department training
+- **question**:
+
 
 # Appendix
 
